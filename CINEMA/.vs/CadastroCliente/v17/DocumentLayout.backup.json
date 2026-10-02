@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\cadastrocliente\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\gabriel.mfernandes4\\source\\repos\\crudcsharp-main\\cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\gabriel.mfernandes4\\source\\repos\\crudcsharp-main\\cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cadastrar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Cadastrar.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\Cadastrar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:43:47.389Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Atualizar.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Atualizar.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Atualizar.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Atualizar.cs",
+              "RelativeToolTip": "CadastroCliente\\Atualizar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:34:06.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Atualizar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Atualizar.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Atualizar.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Atualizar.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\Atualizar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T14:25:35.441Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Excluir.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Excluir.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Excluir.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Excluir.cs",
+              "RelativeToolTip": "CadastroCliente\\Excluir.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwCwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T14:23:16.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Excluir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Excluir.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Excluir.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Excluir.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\Excluir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T14:23:06.882Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastrar.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Cadastrar.cs",
+              "RelativeToolTip": "CadastroCliente\\Cadastrar.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAUwGQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T12:43:50.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Consultar.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Consultar.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Consultar.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Consultar.cs",
+              "RelativeToolTip": "CadastroCliente\\Consultar.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:28:17.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Form1.cs",
+              "RelativeToolTip": "CadastroCliente\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:00:22.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Consultar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Consultar.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Consultar.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Consultar.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\Consultar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T13:38:27.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAO.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\DAO.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\DAO.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\DAO.cs",
+              "RelativeToolTip": "CadastroCliente\\DAO.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwC4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:42:35.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CRUDCSHARP-main\\CadastroCliente\\Form1.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:59:49.335Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
